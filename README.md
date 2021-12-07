@@ -26,7 +26,7 @@
 
 
 ## Usage 
-
+ A password generator that will ask via window prompts the parameters of a password desired and then formulate a password. password generator that will ask via window prompts the parameters of a password desired and then formulate a password. 
 
 
 
