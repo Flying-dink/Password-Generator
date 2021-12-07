@@ -1,17 +1,17 @@
 ![2021-06-30 (2)](https://user-images.githubusercontent.com/83742550/124044221-e996bc80-d9da-11eb-93ba-0540376eb27a.png)
 # Password-Generator
-Challenge #3
+
 ##  Like Fort Knox!  Check out my passowrd generator.  It will keep your information safe and secure.  
  https://flying-dink.github.io/Password-Generator/
-# ReadMe-Generator
+
 
 
 ## Description
- An app that produces a  professional Readme
+ An app that  randomly generates passwords
 
-## Table of Contents (Optional)
+## Table of Contents 
 
-If your README is very long, add a table of contents to make it easy for users to find what they need.
+
 
 * [Installation](#installation)
 * [Usage](#usage)
@@ -20,23 +20,19 @@ If your README is very long, add a table of contents to make it easy for users t
 
 
 ## Installation
-Install npm
+
 
 
 
 
 ## Usage 
-Answer the simple Questions
 
-![2021-08-08 (6)](https://user-images.githubusercontent.com/83742550/128620805-8a1a54e7-7100-4022-9ab6-87df561eae8a.png)
-Walk through video
-https://drive.google.com/file/d/1xD_3LtBa42svZO0PhK_L3hozq0_CvQmP/view
 
 
 
 ## License
 MIT
-The last section of a good README is a license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, use [https://choosealicense.com/](https://choosealicense.com/)
+
 
 
 ---
@@ -53,7 +49,7 @@ The last section of a good README is a license. This lets other developers know 
 
 
 ## Contributing
-Easy way to generate a readme
+None needed thankyou
 
 
 
@@ -79,5 +75,5 @@ none
 
 ## Questions?
 
-Flying-Dink
-skyedoll@aol.com
+github.com/Flying-dink
+skydoll96@gmail.com
