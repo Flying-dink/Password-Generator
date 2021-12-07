@@ -20,7 +20,7 @@
 
 
 ## Installation
-
+Click on the link and input parameters.
 
 
 
@@ -35,7 +35,7 @@ MIT
 
 
 
----
+
 
 
 
